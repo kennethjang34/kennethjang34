@@ -15,8 +15,10 @@ Feel free to reach me for any sort of collaboration!
 - 💬 I’m currently working on JBYI, a real time chat application --> https://github.com/kennethjang34/communication
 
 - 📫 How to reach me: please contact me through my person email kennethjang34@gmail.com 
-- 
+
 - 📜 Fun fact: I think vim is the perfect text editor for coding
+
+
 
 
 - 💻 Languages: C, C++, C#, Python, Java, JavaScript, SQL, Bash, HTML/XML, CSS
