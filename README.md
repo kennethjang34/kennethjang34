@@ -10,18 +10,19 @@ Feel free to reach me for any sort of collaboration!
 <!--
 **kennethjang34/kennethjang34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on JBYI, a real time chat application --> https://github.com/kennethjang34/communication
-- 💬 Ask me about ...
+
 - 📫 How to reach me: please contact me through my person email kennethjang34@gmail.com 
+- 
 - ⚡ Fun fact: I think vim is the perfect text editor for coding
 
-Technical Skills:
 
 Languages: C, C++, C#, Python, Java, JavaScript, SQL, Bash, HTML/XML, CSS
+
 Frameworks/Libraries: Django, DjangoChannels, Django REST Framework, JUnit, ReactJS, React Native
+
 DBMS: MySQL, SQLite
-Tools/Environments: Git/Github, Docker, Parcel.js, VSCode, Repl.it, Jupyter, IntelliJ IDEA, Android Studio, Vim
+
+Tools/Environments: Git/Github, Docker, Parcel.js, VSCode, Repl.it, Jupyter, IntelliJ IDEA, Android Studio, ***VIM***
 
 
