@@ -17,7 +17,7 @@ Feel free to reach me for any sort of collaboration!
 
 
 
-- 💻 Languages: C, C++, C#, Python, Java, JavaScript, SQL, Bash, HTML/XML, CSS
+- 💻 Languages: C, C++, C#, Python, Java, JavaScript, SQL, Bash, Perl, Lua, VimScript, HTML/XML, CSS
 
 - 🏜️ Frameworks/Libraries: Django, DjangoChannels, Django REST Framework, JUnit, ReactJS, React Native
 
