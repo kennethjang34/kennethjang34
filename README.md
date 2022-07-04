@@ -4,7 +4,7 @@ I am currently looking for an internship opportunity as a full stack developer/D
 
 Feel free to reach me for any sort of collaboration! 
 
-- 💬 I’m currently working on JBYI, a real time chat application --> https://github.com/kennethjang34/communication
+- 💬 Recent Project: JBYI, a real time chat application --> https://github.com/kennethjang34/communication
 
 - 📫 How to reach me: please contact me through my person email kennethjang34@gmail.com 
 
