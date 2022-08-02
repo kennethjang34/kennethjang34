@@ -1,6 +1,6 @@
 ### Hi there I am Junhyeok!👋
-I am a rising junior, who is studying Computer Science and Mathematics at UBC.
-I am currently looking for an internship opportunity as a full stack developer/Data engineer.
+I am a junior that studies Computer Science and Mathematics at UBC.
+
 
 Feel free to reach me for any sort of collaboration! 
 
@@ -19,10 +19,8 @@ Feel free to reach me for any sort of collaboration!
 
 - 💻 Languages: C, C++, C#, Python, Java, JavaScript, SQL, Bash, Perl, Lua, Vimscript, HTML/XML, CSS
 
-- 🏜️ Frameworks/Libraries: Django, DjangoChannels, Django REST Framework, JUnit, ReactJS, React Native
+- 🏜️ Frameworks/Libraries: ASP.NET, Django, DjangoChannels, Django REST Framework, JUnit, ReactJS, React Native
 
 - 🏬 DBMS: MySQL, SQLite
 
 - ⚙️ Tools/Environments: Git/Github, Docker, Parcel.js, VSCode, Repl.it, Jupyter, IntelliJ IDEA, Android Studio, ***VIM***
-
-
