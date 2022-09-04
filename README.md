@@ -19,8 +19,11 @@ Feel free to reach me for any sort of collaboration!
 
 - 💻 Languages: C, C++, C#, Python, Java, JavaScript, SQL, Bash, Perl, Lua, Vimscript, HTML/XML, CSS
 
-- 🏜️ Frameworks/Libraries: ASP.NET, Django, DjangoChannels, Django REST Framework, JUnit, ReactJS, React Native
+- 🏜️ Frameworks/Libraries: ASP.NET, Django, DjangoChannels, Django REST Framework, JUnit, ReactJS, React Native, Angular
 
 - 🏬 DBMS: MySQL, SQLite
 
-- ⚙️ Tools/Environments: Git/Github, Docker, Parcel.js, VSCode, Repl.it, Jupyter, IntelliJ IDEA, Android Studio, ***VIM***
+- ⚙️ Tools/Environments: Git/Github, Docker, Webpack, Parcel.js, VSCode, Repl.it, Jupyter, IntelliJ IDEA, Android Studio, ***VIM***, Redux-Devtools
+
+- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
+
