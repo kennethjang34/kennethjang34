@@ -1,14 +1,14 @@
 ### Hi there I am Junhyeok!👋
-I am a junior that studies Computer Science and Mathematics at UBC.
+I am a junior, studying Computer Science and Mathematics at UBC.
 
 
 Feel free to reach me for any sort of collaboration! 
 
-- 💬 Recent Project: JBYI, a real time chat application --> https://github.com/kennethjang34/communication
+- 💬 Recent Projects: IMHO, a channel-based social media SPA --> https://github.com/kennethjang34/IMHO, JBYI, a real time chat application --> https://github.com/kennethjang34/communication
 
 - 📫 How to reach me: please contact me through my person email kennethjang34@gmail.com 
 
-- 📜 Fun fact: I think vim is the perfect text editor for coding
+- 📜 Fun fact: Love lifting weights!
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kennethjang34&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethjang34&count_private=true&langs_count=5&theme=tokyonight)]()
@@ -17,13 +17,15 @@ Feel free to reach me for any sort of collaboration!
 
 
 
-- 💻 Languages: C, C++, C#, Python, Java, JavaScript, SQL, Bash, Perl, Lua, Vimscript, HTML/XML, CSS
+- 💻 Languages: C, C++, C#, Python, Java, JavaScript/TypeScript, SQL, Bash, Perl, Lua, Vimscript, XML, HTML, CSS
 
-- 🏜️ Frameworks/Libraries: ASP.NET, Django, DjangoChannels, Django REST Framework, JUnit, ReactJS, React Native, Angular
+- 🏜️ Frameworks/Libraries/APIs: ASP.NET, Django, ReactJS, Angular, Redux, RxJs, NgRx, JUnit, Google APIs, Okta APIs
 
 - 🏬 DBMS: MySQL, SQLite
 
 - ⚙️ Tools/Environments: Git/Github, Docker, Webpack, Parcel.js, VSCode, Repl.it, Jupyter, IntelliJ IDEA, Android Studio, ***VIM***, Redux-Devtools
 
-- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/ethernet.svg">
+- 🌐 Network Protocols/techniques: IP, HTTP/HTTPS, WebSocket, SSE, HTTP long polling
+
+- 👤 Authentication/Authorization Protocols: OpenIdConnect, OAuth2.0 with PKCE
 
