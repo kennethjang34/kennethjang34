@@ -25,5 +25,5 @@ Feel free to reach me for any sort of collaboration!
 
 - ⚙️ Tools/Environments: Git/Github, Docker, Webpack, Parcel.js, VSCode, Repl.it, Jupyter, IntelliJ IDEA, Android Studio, ***VIM***, Redux-Devtools
 
-- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
+- <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/ethernet.svg">
 
