@@ -25,7 +25,7 @@ Feel free to reach me for any sort of collaboration!
 
 - 🌐 Network Protocols/techniques: IP, HTTP/HTTPS, WebSocket, SSE, HTTP long polling
 
-- 👤 Authentication/Authorization Protocols: OpenIdConnect, OAuth2.0 with PKCE
+- 👤 Authentication/Authorization Protocols: OIDC, OAuth2.0 with PKCE
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kennethjang34&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethjang34&count_private=true&langs_count=5&theme=tokyonight)]()
