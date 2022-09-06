@@ -8,13 +8,6 @@ Feel free to reach me for any sort of collaboration!
 
 - 📫 How to reach me: please contact me through my person email kennethjang34@gmail.com 
 
-- 📜 Fun fact: Love lifting weights!
-
-
-
-
-
-
 - 💻 Languages: C, C++, C#, Python, Java, JavaScript/TypeScript, SQL, Bash, Perl, Lua, Vimscript, XML, HTML, CSS
 
 - 🏜️ Frameworks/Libraries/APIs: ASP.NET, Django, ReactJS, Angular, Redux, RxJs, NgRx, JUnit, Google APIs, Okta APIs
@@ -26,6 +19,9 @@ Feel free to reach me for any sort of collaboration!
 - 🌐 Network Protocols/techniques: IP, HTTP/HTTPS, WebSocket, SSE, HTTP long polling
 
 - 👤 Authentication/Authorization Protocols: OIDC, OAuth2.0 with PKCE
+
+- 📜 Fun fact: Love lifting weights!
+ 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kennethjang34&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethjang34&count_private=true&langs_count=5&theme=tokyonight)]()
