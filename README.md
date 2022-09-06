@@ -10,8 +10,6 @@ Feel free to reach me for any sort of collaboration!
 
 - 📜 Fun fact: Love lifting weights!
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kennethjang34&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethjang34&count_private=true&langs_count=5&theme=tokyonight)]()
 
 
 
@@ -29,3 +27,5 @@ Feel free to reach me for any sort of collaboration!
 
 - 👤 Authentication/Authorization Protocols: OpenIdConnect, OAuth2.0 with PKCE
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kennethjang34&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethjang34&count_private=true&langs_count=5&theme=tokyonight)]()
