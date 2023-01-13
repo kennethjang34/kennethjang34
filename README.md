@@ -8,11 +8,11 @@ Feel free to reach me for any sort of collaboration!
 
 - 📫 How to reach me: please contact me through my person email kennethjang34@gmail.com 
 
-- 💻 Languages: C, C++, C#, Python, Java, JavaScript/TypeScript, SQL, Bash, Perl, Lua, Vimscript, XML, HTML, CSS
+- 💻 Languages: C, C++, C#, Rust, Python2/3, Java, JavaScript/TypeScript, SQL, Bash, Perl, Lua, Vimscript, XML, HTML, CSS
 
 - 🏜️ Frameworks/Libraries/APIs: ASP.NET, Django, ReactJS, Angular, Redux, RxJs, NgRx, JUnit, Google APIs, Okta APIs
 
-- 🏬 DBMS: MySQL, SQLite
+- 🏬 DBMS: MySQL, Oracle DB, SQLite
 
 - ⚙️ Tools/Environments: Git/Github, Docker, Webpack, Parcel.js, VSCode, Repl.it, Jupyter, IntelliJ IDEA, Android Studio, ***VIM***, Redux-Devtools
 
