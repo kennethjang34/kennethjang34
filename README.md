@@ -24,4 +24,4 @@ Feel free to reach me for any sort of collaboration!
  
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kennethjang34&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethjang34&count_private=true&langs_count=5&theme=tokyonight)]()
+ [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethjang34&count_private=true&langs_count=5&theme=tokyonight)]()
