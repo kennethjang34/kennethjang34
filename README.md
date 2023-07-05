@@ -8,17 +8,17 @@ Feel free to reach me for any sort of collaboration!
 
 - 📫 How to reach me: please contact me through my person email kennethjang34@gmail.com 
 
-- 💻 Languages: C, C++, C#, Rust, Python2/3, Java, JavaScript/TypeScript, SQL, Bash, Perl, Lua, Vimscript, XML, HTML, CSS
+- 💻 Languages: C, C++, C#, Rust, Python2/3, Java, JavaScript/TypeScript, SQL, Bash, Perl, Lua, Vimscript, XML, HTML, CSS, WASM
 
-- 🏜️ Frameworks/Libraries/APIs: ASP.NET, Django, ReactJS, Angular, Redux, RxJs, NgRx, JUnit, Google APIs, Okta APIs
+- 🏜️ Frameworks/Libraries/APIs: ASP.NET, Yew, Axum, Django, ReactJS, Angular, Redux, RxJs, NgRx, JUnit, Google APIs, Okta APIs, QMK,ZMK
 
-- 🏬 DBMS: MySQL, Oracle DB, SQLite
+- 🏬 DBMS: MySQL, Oracle DB, SQLite, Redis, Memcached
 
-- ⚙️ Tools/Environments: Git/Github, Docker, Webpack, Parcel.js, VSCode, Repl.it, Jupyter, IntelliJ IDEA, Android Studio, ***VIM***, Redux-Devtools
+- ⚙️ Tools/Environments: Git/Github, Docker, Webpack, Trunk, wasm-pack, Parcel.js, VSCode, Repl.it, Jupyter, IntelliJ IDEA, Android Studio, ***VIM***, Redux-Devtools
 
-- 🌐 Network Protocols/techniques: IP, HTTP/HTTPS, WebSocket, SSE, HTTP long polling
+- 🌐 Network Protocols/techniques: IP, HTTP/HTTPS, WebSocket, SSE
 
-- 👤 Authentication/Authorization Protocols: OIDC, OAuth2.0 with PKCE
+- 👤 Authentication/Authorization Protocols: OIDC, OAuth2.0
 
 - 📜 Fun fact: Love lifting weights!
  
