@@ -1,10 +1,13 @@
-### Hi there I am Junhyeok!👋
-I am a 3rd year student, studying Computer Science and Mathematics at UBC.
-
+### Hi there, I am Junhyeok!👋
+I am a 3rd year CS/Math student at UBC.
 
 Feel free to reach me for any sort of collaboration! 
 
-- 💬 Recent Projects: IMHO, a channel-based social media SPA --> https://github.com/kennethjang34/IMHO, JBYI, a real time chat application --> https://github.com/kennethjang34/communication
+- 💬 Recent Projects:
+    - [RPass](https://github.com/kennethjang34/rpass), [Browser-RPass](https://github.com/kennethjang34/browser-rpass)(WIP): Rust-based [Linux Pass](https://www.passwordstore.org/) implementation forked from [ripasso](https://github.com/cortex/ripasso) with browser extension support
+    - [IOS Shortcuts](https://github.com/kennethjang34/ios_shortcuts): repo of miscellaneous IOS shortcuts made for personal use
+    - [IMHO](https://github.com/kennethjang34/IMHO): a channel-based social media SPA
+    - [JBYI](https://github.com/kennethjang34/communication): a real time chat application using WebSocket
 
 - 📫 How to reach me: please contact me through my person email kennethjang34@gmail.com 
 
@@ -21,7 +24,7 @@ Feel free to reach me for any sort of collaboration!
 - 👤 Authentication/Authorization Protocols: OIDC, OAuth2.0
 
 - 📜 Fun fact: Love lifting weights!
- 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kennethjang34&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethjang34&count_private=true&langs_count=5&theme=tokyonight)]()
+[Github](https://github.com/kennethjang34)  
+
+[LinkedIn](https://www.linkedin.com/in/junhyeok-jang-58931a175/)
