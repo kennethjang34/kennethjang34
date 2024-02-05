@@ -4,7 +4,7 @@ I am a 3rd year CS/Math student at UBC.
 Feel free to reach me for any sort of collaboration! 
 
 - 💬 Recent Projects:
-    - [RPass](https://github.com/kennethjang34/rpass), [Browser-RPass](https://github.com/kennethjang34/browser-rpass)(WIP): Rust-based [Linux Pass](https://www.passwordstore.org/) implementation forked from [ripasso](https://github.com/cortex/ripasso) with browser extension support
+    - [RPass](https://github.com/kennethjang34/rpass), [Browser-RPass](https://github.com/kennethjang34/browser-rpass): Rust-based [Linux Pass](https://www.passwordstore.org/) implementation forked from [ripasso](https://github.com/cortex/ripasso) with browser extension support
     - [IOS Shortcuts](https://github.com/kennethjang34/ios_shortcuts): repo of miscellaneous IOS shortcuts made for personal use
     - [IMHO](https://github.com/kennethjang34/IMHO): a channel-based social media SPA
     - [JBYI](https://github.com/kennethjang34/communication): a real time chat application using WebSocket
