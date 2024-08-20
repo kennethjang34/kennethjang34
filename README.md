@@ -1,5 +1,5 @@
 ### Hi there, I am Junhyeok!👋
-I am a 3rd year CS/Math student at UBC.
+I am a 4th year CS/Math student at UBC.
 
 Feel free to reach me for any sort of collaboration! 
 
