@@ -27,4 +27,4 @@ Feel free to reach me for any sort of collaboration!
 
 [Github](https://github.com/kennethjang34)  
 
-[LinkedIn](https://www.linkedin.com/in/junhyeok-jang-58931a175/)
+[LinkedIn](https://www.linkedin.com/in/kenneth-jang/)
