@@ -1,4 +1,4 @@
-### Hi there, I am Junhyeok!👋
+### Hi there, I am Kenneth!👋
 I am a 4th year CS/Math student at UBC.
 
 Feel free to reach me for any sort of collaboration! 
