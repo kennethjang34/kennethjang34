@@ -11,7 +11,7 @@ Feel free to reach me for any sort of collaboration!
 
 - 📫 How to reach me: please contact me through my person email kennethjang34@gmail.com 
 
-- 💻 Languages: C, C++, C#, Rust, Python2/3, Java, JavaScript/TypeScript, SQL, Bash, Perl, Lua, Vimscript, XML, HTML, CSS, WASM
+- 💻 Languages: C, C++, C#, Rust, Racket, Haskell, Python, Java, JavaScript/TypeScript, SQL, Bash, Perl, Lua, Vimscript, XML, HTML, CSS
 
 - 🏜️ Frameworks/Libraries/APIs: ASP.NET, Yew, Axum, Django, ReactJS, Angular, Redux, RxJs, NgRx, JUnit, Google APIs, Okta APIs, QMK,ZMK
 
